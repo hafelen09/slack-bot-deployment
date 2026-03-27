@@ -22,7 +22,7 @@ A Slack Bot designed to interact with your Kubernetes cluster directly from Slac
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/hafelen09/slack-bot-deployment.git
    cd slack-bot-deployment
    ```
 
