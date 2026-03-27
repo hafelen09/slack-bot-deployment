@@ -32,6 +32,8 @@ A Slack Bot designed to interact with your Kubernetes cluster directly from Slac
    ```
 
 3. **Configure Environment Variables:**
+   > 📘 **New to Slack Bots?** Check out our detailed **[Slack App Configuration Guide](SLACK_SETUP.md)** to learn how to create your app, configure scopes (`chat:write` and `commands`), enable slash commands, and grab your tokens.
+
    Create a `.env` file based on your environment:
    ```env
    SLACK_BOT_TOKEN=xoxb-your-bot-token
