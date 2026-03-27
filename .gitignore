@@ -1,0 +1,16 @@
+# Environments
+.env
+
+# Logs
+*.log
+!bot.log
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
